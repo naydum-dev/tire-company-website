@@ -20,7 +20,7 @@ A modern, responsive single-page website for a tire company built with React and
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/YOUR-USERNAME/tire-company-website.git
+   git clone https://github.com/naydum-dev/tire-company-website.git
 ```
 
 2. Navigate to the project directory:
